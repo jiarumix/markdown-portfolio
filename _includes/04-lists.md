@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+Favorite fruit:
+  1.apple
+  2.banana
+:smile:
